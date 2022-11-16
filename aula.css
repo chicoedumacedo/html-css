@@ -1,0 +1,26 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+aside {
+  width: 30%;
+  float: left;
+  height: 100vh;
+  border: 1px solid red;
+}
+img{
+  width: 50%;
+  margin: 50% auto 0 auto;
+  display: block;
+}
+main{
+  float:right;
+  width: 70%;
+  border: 1px solid blue; 
+  padding: 26px;
+  /*margin: 26px;*/
+  
+
+}
